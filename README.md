@@ -4,7 +4,7 @@
 
 A cheatsheet/playbook I created in Obsidian during my study for the OSCP certification and also what I used during my OSCP exam.
 
-## How to download and import this into Obsidian
+## How to import this into Obsidian
 
 1. Download the .md file from the repository.
 2. Open Obsidian and navigate to your desired vault/folder.
