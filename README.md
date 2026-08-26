@@ -6,11 +6,10 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSCP certifi
 
 ## How to import this into Obsidian
 
-1. Download the .md file from the repository.
-2. Open Obsidian and navigate to your desired vault/folder.
-3. **Copy** the downloaded file into your vault directory.
-4. **Refresh** the file explorer in Obsidian (or restart the app) to see the new file.
-5. **Open** the playbook and start taking notes alongside it.
+1. Click "code" on the top right and click "Download ZIP"
+2. Extract the ZIP on your host machine.
+3. Open Obsidian and select "Open folder as vault"
+4. Select the extracted folder called "OSCP-Playbook-main"
 
 ## Disclaimer
 
