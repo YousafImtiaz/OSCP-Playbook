@@ -9,7 +9,7 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSCP certifi
 1. Click "code" on the top right of the repository and click "Download ZIP"
 2. Extract the ZIP on your host machine.
 3. Open Obsidian and select "Open folder as vault"
-4. Double click the extracted folder called "OSCP-Playbook-main" to open it, then select the folder inside (the actual vault) to open it in Obsidian.
+4. Double click the extracted folder called "OSCP-Playbook-main" then select the folder inside (the actual vault) to open it in Obsidian.
 
 ## Disclaimer
 
