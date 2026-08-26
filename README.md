@@ -6,7 +6,7 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSCP certifi
 
 ## How to import this into Obsidian
 
-1. Click "code" on the top right and click "Download ZIP"
+1. Click "code" on the top right of the repository and click "Download ZIP"
 2. Extract the ZIP on your host machine.
 3. Open Obsidian and select "Open folder as vault"
 4. Select the extracted folder called "OSCP-Playbook-main"
