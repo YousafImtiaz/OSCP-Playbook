@@ -4,7 +4,7 @@
 evil-winrm -i <target_ip> -u <user> -p '<password>' 
 ```
 
-If you have a hash instead of a password:
+> If you have a hash instead of a password:
 
 ```
 evil-winrm -i <target_ip> -u <username> -H '<hash>' 
