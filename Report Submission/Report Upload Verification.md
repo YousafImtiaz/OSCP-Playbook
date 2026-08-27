@@ -17,7 +17,7 @@ sudo md5sum OSCP-OS-xxxxxxxx-Exam-Report.7z
 Tool here: https://github.com/YousafImtiaz/SumCheck
 
 ```
-python3 sumchk.py
+python3 sumcheck.py
 ```
 
 
