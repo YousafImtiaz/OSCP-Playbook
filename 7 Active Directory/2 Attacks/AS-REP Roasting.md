@@ -18,4 +18,4 @@ We can then attempt to crack this using hashcat.
 .\Rubeus.exe asreproast /nowrap
 ```
 
-Here we will obtain a hash which we can copy and paste into a file and crack 
+Here we will obtain a hash which we can copy and paste into a file and crack.
