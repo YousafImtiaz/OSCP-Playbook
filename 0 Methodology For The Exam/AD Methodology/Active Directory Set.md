@@ -4,7 +4,7 @@ We start with a set of credentials as it's an assumed breach scenario. Now what 
 
 > 2: Once logged in, escalate privileges to SYSTEM.
 
-> 3: After gaining SYSTEM, use Mimikatz to dump hashes and extract any credentials, and set up tunneling.
+> 3: After gaining SYSTEM, use Mimikatz to dump hashes and extract any credentials, and set up tunnelling. Make sure to check folders for unusual scripts or files that may be present as well.
 
 Once you have a set of credentials or a hash:
 
