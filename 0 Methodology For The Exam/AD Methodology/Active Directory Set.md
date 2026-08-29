@@ -4,7 +4,7 @@ We start with a set of credentials as it's an assumed breach scenario. Now what 
 
 > 2: Once logged in, escalate privileges to SYSTEM. Use PowerView to enumerate the machine and also check folders for unusual scripts and files. Also make sure to check for unusual tasks.
 
-> 3: After gaining SYSTEM, use Mimikatz to dump hashes and extract any credentials, and set up tunnelling. Make sure to check folders for unusual scripts or files that may be present as well.
+> 3: After gaining SYSTEM, use Mimikatz to dump hashes and extract any credentials, and set up tunnelling.
 
 Once you have a set of credentials or a hash:
 
