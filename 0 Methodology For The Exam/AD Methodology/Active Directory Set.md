@@ -2,7 +2,7 @@ We start with a set of credentials as it's an assumed breach scenario. Now what 
 
 > 1: Start by logging into the machine using the provided external IP address via RDP.
 
-> 2: Once logged in, escalate privileges to SYSTEM.
+> 2: Once logged in, escalate privileges to SYSTEM. Use PowerView to enumerate the machine and also check folders for unusual scripts and files. Also make sure to check for unusual tasks.
 
 > 3: After gaining SYSTEM, use Mimikatz to dump hashes and extract any credentials, and set up tunnelling. Make sure to check folders for unusual scripts or files that may be present as well.
 
