@@ -11,6 +11,9 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSCP certifi
 3. Open Obsidian and select "Open folder as vault"
 4. Double click the extracted folder called "OSCP-Playbook-main" then select the folder inside (the actual vault) to open it in Obsidian.
 
+## Playbook Overview
+![Playbook Overview](./Image/Playbook%20Overview.jpg)
+
 ## Disclaimer
 
 This playbook is not extensive and is for reference purposes only. It does not cover all the course material, and commands, tools, and syntax may have changed since it was created. It should not be used as a substitute for the official PEN-200 course.
